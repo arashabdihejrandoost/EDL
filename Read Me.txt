@@ -1,0 +1,18 @@
+first extract the zip files and place them beside the matlab .m files.
+Then run the Entropy_Dic_Learning_ar.m file. It loads the AR dataset and runs the EDL method on it.
+
+Entropy based Dictionary Learning (EDL), Version 1.0.
+Copyright(c) 2020  Arash Abdi, Mohammad Rahmati, Mohammad Mahdi Ebadzadeh.
+All Rights Reserved.
+
+The source code of the paper: Arash Abdi, Mohammad Rahmati, Mohammad M.
+Ebadzadeh, Entropy based Dictionary Learning for Image Classification 
+
+Permission to use, copy, or modify this software and its documentation
+for educational and research purposes only and without fee is here
+granted, provided that this copyright notice and the original authors'
+names appear on all copies and supporting documentation. This program
+shall not be used, rewritten, or adapted as the basis of a commercial
+software or hardware product without first obtaining permission of the
+authors.
+Contact: {arash_abdi,rahmati,ebadzadeh}@aut.ac.ir
